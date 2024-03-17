@@ -1,0 +1,20 @@
+mkdir Langagec
+mkdir EA
+mkdir OL
+mkdir Projet
+cd Langagec
+mkdir Cours
+mkdir TPc
+cd TPc
+touch tp1
+touch tp2
+touch tp3
+cp /Langagec/TPc /OL/TPol
+print
+mv /OL/TPol /EA/TpeA
+print
+cd /EA/TpeA
+rm /Langagec
+cd ..
+pwd
+print

@@ -1,0 +1,7 @@
+Le fichier ne doit contenire que les commandes : cp ; mv ; cd ; touch ; rm ; print ; ls ; mkdir. Sans options.
+Avec les chemain ecrit : nomDossier/nomDossier2/Fichier ou nomDossier/nomDossier2 . Sans espace et sans /. et /..
+Il doit avoir une instruction, un appel de commande par ligne
+
+Pour executer le programme taper la commande :
+                                                make
+                                                ./program nom_fichier_test
